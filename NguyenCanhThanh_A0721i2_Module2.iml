@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/10_dsa_danh_sach" isTestSource="false" packagePrefix="bai10_dsa_danh_sach" />
+      <sourceFolder url="file://$MODULE_DIR$/11_dsa_stack_queue" isTestSource="false" packagePrefix="bai11_dsa_stack_queue" />
+      <sourceFolder url="file://$MODULE_DIR$/1_introduction_to_java" isTestSource="false" packagePrefix="bai1_introduction_to_java" />
+      <sourceFolder url="file://$MODULE_DIR$/2_vong_lap_trong_java" isTestSource="false" packagePrefix="bai2_vong_lap_trong_java" />
+      <sourceFolder url="file://$MODULE_DIR$/3_mang_va_phuong_thuc" isTestSource="false" packagePrefix="bai3_mang_va_phuong_thuc" />
+      <sourceFolder url="file://$MODULE_DIR$/4_lop_va_doi_tuong_trong_java" isTestSource="false" packagePrefix="bai4_lop_va_doi_tuong_trong_java" />
+      <sourceFolder url="file://$MODULE_DIR$/5_access_modifier_static_method_static_property" isTestSource="false" packagePrefix="bai5_access_modifier_static_method_static_property" />
+      <sourceFolder url="file://$MODULE_DIR$/6_ke_thua" isTestSource="false" packagePrefix="bai6_ke_thua" />
+      <sourceFolder url="file://$MODULE_DIR$/7_abstract_class_and_interface" isTestSource="false" packagePrefix="bai7_abstract_class_and_interface" />
+      <sourceFolder url="file://$MODULE_DIR$/8_clean_code" isTestSource="false" packagePrefix="bai8_clean_code" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
